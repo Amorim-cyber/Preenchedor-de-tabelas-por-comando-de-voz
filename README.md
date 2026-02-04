@@ -4,7 +4,7 @@
 
 <p>Segue abaixo video demonstrativo da solução</p>
 
-<img src="video_info.mp4">
+<video src="video_info.mp4" controls width="600"></video>
 
 <p>O audio das instruções esta funcionado. Infelizmente no video ela não saiu como esperado.</p>
 
